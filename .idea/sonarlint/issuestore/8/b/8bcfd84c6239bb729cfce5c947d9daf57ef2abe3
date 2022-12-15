@@ -1,0 +1,5 @@
+
+u
+java:S1488S"_Immediately return this expression instead of assigning it to the temporary variable "isValid".(Ží††
+i
+java:S3655="NCall "project.isPresent()" or "!project.isEmpty()" before accessing the value.(·’ñÂüÿÿÿÿ

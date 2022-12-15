@@ -1,0 +1,13 @@
+
+E
+java:S54115"*Use the primitive boolean expression here.(µË»“úÿÿÿÿ
+d
+java:S3655D"NCall "project.isPresent()" or "!project.isEmpty()" before accessing the value.(÷åÕ
+S
+java:S1612V">Replace this lambda with method reference 'Employee::getVisa'.(ƒ •y
+\
+java:S1126a"AReplace this if-then-else statement by a single return statement.(÷ûÙÕùÿÿÿÿ
+X
+java:S1854‚"<Remove this useless assignment to local variable "projects".(’„÷İøÿÿÿÿ
+I
+java:S1481‚"-Remove this unused "projects" local variable.(’„÷İøÿÿÿÿ
